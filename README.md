@@ -1,1 +1,1 @@
-# Data_Science_Project
+Projects: Crop Production Analysis, Entertainer Data Analytics
